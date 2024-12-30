@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Finger"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Consequat pariatur amet labore ullamco minim dolore minim. Aliquip tempor id aliqua nostrud. Consequat irure enim aute ea nostrud amet quis."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
