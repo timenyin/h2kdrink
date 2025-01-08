@@ -7,7 +7,7 @@ Want to quickly get started building your own project with [Prismic][prismic] an
 
 &nbsp;
 
-
+![Screenshot of the App](https://drive.google.com/uc?id=11ZXgon-jCJotiJkLzNgWKytGmkQE73Yp)
 
 &nbsp;
 
